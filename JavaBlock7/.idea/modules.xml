@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Array SandBox/Array SandBox.iml" filepath="$PROJECT_DIR$/Array SandBox/Array SandBox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dice/Dice.iml" filepath="$PROJECT_DIR$/Dice/Dice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Block7.iml" filepath="$PROJECT_DIR$/Java Block7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeapYear/LeapYear.iml" filepath="$PROJECT_DIR$/LeapYear/LeapYear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Number Guesser/Number Guesser.iml" filepath="$PROJECT_DIR$/Number Guesser/Number Guesser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Quadratic/Quadratic.iml" filepath="$PROJECT_DIR$/Quadratic/Quadratic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Reverser/Reverser.iml" filepath="$PROJECT_DIR$/Reverser/Reverser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RochambeauBaseline/RochambeauBaseline.iml" filepath="$PROJECT_DIR$/RochambeauBaseline/RochambeauBaseline.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SkillsDrill/SkillsDrill.iml" filepath="$PROJECT_DIR$/SkillsDrill/SkillsDrill.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VariablesSandbox/VariablesSandbox.iml" filepath="$PROJECT_DIR$/VariablesSandbox/VariablesSandbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Wumpus/Wumpus.iml" filepath="$PROJECT_DIR$/../Wumpus/Wumpus.iml" />
+    </modules>
+  </component>
+</project>
